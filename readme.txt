@@ -2,3 +2,9 @@
 Git is free software.
 Git has a mutable index called stage.
 change online.
+merge after.
+
+conlict.
+dev change
+
+bilibili
