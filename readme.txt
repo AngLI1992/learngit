@@ -2,4 +2,4 @@
 Git is free software.
 Git has a mutable index called stage.
 change online.
-Creating a new branch is quick.
+merge after
