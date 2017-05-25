@@ -6,3 +6,4 @@ merge after
 two
 three
 test -a
+resettest
